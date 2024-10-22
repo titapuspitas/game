@@ -31,9 +31,9 @@
         <mxCell id="iuuY5qszwD7AiJu-uLty-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="329" y="111" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iuuY5qszwD7AiJu-uLty-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.65;exitY=1.067;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="iuuY5qszwD7AiJu-uLty-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="399" y="171.01999999999998" as="sourcePoint" />
+            <mxPoint x="400" y="170" as="sourcePoint" />
             <mxPoint x="350" y="240" as="targetPoint" />
             <Array as="points">
               <mxPoint x="400" y="197" />
@@ -160,13 +160,13 @@
         <mxCell id="iuuY5qszwD7AiJu-uLty-35" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="248" y="991" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iuuY5qszwD7AiJu-uLty-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.82;exitY=0.613;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="iuuY5qszwD7AiJu-uLty-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.82;exitY=0.613;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.383;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="iuuY5qszwD7AiJu-uLty-38">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="319" y="1054.04" as="sourcePoint" />
             <mxPoint x="449" y="1150" as="targetPoint" />
             <Array as="points">
               <mxPoint x="319" y="1107" />
-              <mxPoint x="449" y="1107" />
+              <mxPoint x="440" y="1107" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -241,6 +241,39 @@
             <mxPoint x="410" y="580" as="sourcePoint" />
             <mxPoint x="299" y="685" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iuuY5qszwD7AiJu-uLty-59" value="&lt;b&gt;Gameplay&lt;/b&gt;&lt;div&gt;&lt;b&gt;(Pawn Stage)&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="698" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iuuY5qszwD7AiJu-uLty-60" value="&lt;b&gt;Selection&lt;/b&gt;&lt;div&gt;Character&lt;/div&gt;&lt;div&gt;Race/Class&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="99" y="323" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iuuY5qszwD7AiJu-uLty-62" value="&lt;b&gt;Modefication&lt;/b&gt;&lt;div&gt;Name&lt;/div&gt;&lt;div&gt;Skin/Appereance&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="101" y="373" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iuuY5qszwD7AiJu-uLty-63" value="&lt;b&gt;Selection&lt;/b&gt;&lt;div&gt;Game Area&lt;/div&gt;&lt;div&gt;Game Type&lt;/div&gt;&lt;div&gt;Game Difficulty&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="79" y="480" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iuuY5qszwD7AiJu-uLty-64" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;Retry/Quit&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;Win/Lose&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;Condition&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="808" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iuuY5qszwD7AiJu-uLty-65" value="&lt;b&gt;Boss Cutscene&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="431" y="800" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iuuY5qszwD7AiJu-uLty-66" value="&lt;b&gt;Gameplay&lt;/b&gt;&lt;div&gt;&lt;b&gt;(Boss Stage)&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="224" y="906" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iuuY5qszwD7AiJu-uLty-67" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;Ending&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1016" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iuuY5qszwD7AiJu-uLty-68" value="&lt;b&gt;Game Ending&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="122" y="1162" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iuuY5qszwD7AiJu-uLty-69" value="&lt;b&gt;Game&lt;/b&gt;&lt;div&gt;&lt;b&gt;Aiternative Ending&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="393" y="1163" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iuuY5qszwD7AiJu-uLty-70" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;GAME FINISH&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="1261" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
